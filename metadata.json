@@ -1,0 +1,9 @@
+{
+  "name": "PR-CHAT",
+  "description": "A comprehensive online messaging application with integrated AI capabilities including real-time voice conversation, image generation, image editing, and grounded search.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
